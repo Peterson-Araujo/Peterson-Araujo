@@ -5,7 +5,7 @@
 **`Desenvolvedor Backend`**
 
 <p style="text-align: justify;">
-  Me chamo Peterson, tenho 25 anos e sou natural da Bahia. Concluí o ensino médio no CEEP, com curso técnico em Eletrotécnica. Atualmente, estou cursando Tecnologia da Informação na UFMS. Sou apaixonado por tecnologia e aprender sempre um pouco mais! Possuo experiência em desenvolvimento e automação de processos utilizando o Microsoft Power Platform, incluindo Power Apps, Power Automate e Dataverse. Possuo amplo conhecimento em gerenciamento e personalização de soluções no SharePoint, entregando eficiência e inovação. Atualmente, estou expandindo minhas competências para desenvolvimento back-end com Java e o Framework Spring, buscando integrar soluções personalizadas de alta performance.
+  Me chamo Peterson, tenho 25 anos e sou natural da Bahia. Concluí o ensino médio no CEEP, com curso técnico em Eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR. Sou apaixonado por tecnologia e aprender sempre um pouco mais! Possuo experiência em desenvolvimento e automação de processos utilizando o Microsoft Power Platform, incluindo Power Apps, Power Automate e Dataverse. Possuo amplo conhecimento em gerenciamento e personalização de soluções no SharePoint, entregando eficiência e inovação. Atualmente, estou expandindo minhas competências para desenvolvimento back-end com Java e o Framework Spring, buscando integrar soluções personalizadas de alta performance.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterson-araujo-36b688235/)
