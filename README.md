@@ -5,7 +5,7 @@
 **`Desenvolvedor Backend`**
 
 <p style="text-align: justify;">
-  Me chamo Peterson, tenho 25 anos e sou natural da Bahia. Concluí o ensino médio no CEEP, com curso técnico em Eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNOPAR. Sou apaixonado por tecnologia e aprender sempre um pouco mais! Possuo experiência em desenvolvimento e automação de processos utilizando o Microsoft Power Platform, incluindo Power Apps, Power Automate e Dataverse. Possuo amplo conhecimento em gerenciamento e personalização de soluções no SharePoint, entregando eficiência e inovação. Atualmente, estou expandindo minhas competências para desenvolvimento back-end com Java e o Framework Spring, buscando integrar soluções personalizadas de alta performance.
+  Sou estudante de Análise e Desenvolvimento de Sistemas pela UNOPAR e apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Atuo no desenvolvimento de soluções back-end com Java e Spring Boot, aplicando boas práticas de engenharia de software, arquitetura limpa e Arquitetura Hexagonal para construir aplicações escaláveis, desacopladas e de fácil manutenção. Possuo experiência no desenvolvimento de APIs REST, integração com bancos de dados SQL e Mainframe, implementação de microsserviços, utilização de Redis para cache, desenvolvimento de BFF (Backend for Frontend) e gerenciamento de dependências utilizando Maven. Tenho experiência com ferramentas e tecnologias como Docker, Kubernetes, Git, GitHub, DBeaver, Azure, pipelines de CI/CD, Velocity, além da criação de testes unitários com JUnit 5, sempre buscando garantir qualidade, desempenho e confiabilidade nas aplicações. Além do ecossistema Java, também possuo experiência com a Microsoft Power Platform, desenvolvendo soluções utilizando Power Apps, Power Automate, Dataverse e personalizações no SharePoint, contribuindo para a automação de processos e transformação digital. Estou sempre em busca de novos desafios, aprimorando meus conhecimentos e desenvolvendo soluções que gerem valor por meio da tecnologia.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterson-araujo-36b688235/)
@@ -15,24 +15,30 @@
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</div><br/>
+    <img align="center" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+    <img align="center" alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+</div>
+<br/>
+<div>
+  <img align="center" alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Kubernates" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</div>
 
-## 📈 Estatísticas
+## 📊 Estatísticas
 
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=Peterson-Araujo&show_icons=true&theme=tokyonight"
-/>
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Peterson-Araujo&theme=tokyonight"/>
+</p>
 
-<img
-    align="left"
-    alt="Most Used Languages"
-    height="200"
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterson-Araujo&theme=tokyonight"
-/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peterson-Araujo&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Peterson-Araujo&theme=tokyonight&row=1&column=7"/>
+</p>
