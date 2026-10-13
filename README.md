@@ -36,11 +36,3 @@
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=Peterson-Araujo&theme=tokyonight"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peterson-Araujo&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Peterson-Araujo&theme=tokyonight&row=1&column=7"/>
-</p>
